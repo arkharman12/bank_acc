@@ -1,0 +1,21 @@
+Harmanjot Singh
+Professor Andrew Harris
+Computing II
+26 October 2018
+
+				                    Banking Application Algorithm
+
+•Goals - The main goal of this program is to create a simple banking application in Java. 
+
+•Input - The programs will receive a lot of inputs from the user according to what they are trying to do with the banking system program.
+
+•Output - Outputs will depend on what user have entered in the program but mostly it will be something related to their account they have opened. For example, account balance etc.
+
+•Steps - class BankingApplication{}:
+	      1.Inside this BankingApplication class, create all the necessary variables for the program. For example, options, amount, extraMoney and exit.
+	      2.Make a new do while loop.
+	      3.Inside the loop, make switch statements that will be responsible for running this program.
+	      4.Calculate all the interest rates for different kinds of accounts and add them to the user account depending on how frequently the account gets an interest rate.
+	      5.Display the final to the screen with the interest rate included. 
+	      
+	      
