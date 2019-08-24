@@ -1,0 +1,29 @@
+Harmanjot Singh
+Professor Andrew Harris
+Computing II
+26 October 2018
+
+					                  Banking ATM Algorithm
+
+•Goals - The main goal of this program is to create a simple banking ATM in Java. 
+
+•Input - The programs will receive a lot of inputs from the user according to what they are trying to do with the banking system program.
+
+•Output - Outputs will depend on what user have entered in the program but mostly it will be something related to their account they have opened. For example, account balance etc.
+
+•Steps - class BankingAtm{}:
+	1.Inside this BankingApplication class, create all the necessary variables for the program. For example, accNumber, name, and balance.
+	2.Declare a Scanner KB which will be responsible for storing the user input in appropriate variable.
+	3.Make a method to open an account.
+	4.Make a method to display all the user accounts’ details.
+	5.Make a method to deposit money into the account(s).
+	6.Make a method to withdraw money from accounts(s).
+	7.Implement a boolean system that will help us look up user’s account by account number.
+
+class BankApp{}:
+	1.Create initial accounts for the ATM.
+	2.Make a do while loop.
+	3.Inside that do while loop, make a menu system. This is how user will navigate inside the program.
+	4.Make switch statements that will be responsible for running this program based on the user input.
+	5.Finally implement the exit command. So, the user can exit if they are done with whatever they were doing. 
+	
